@@ -1,7 +1,7 @@
 Responsive navigation drawer
 
 Небольшое красивое меню уменьшающее размер при нажатии на кнопку.
-Использовался только html и css.
+Использовался html и css и javascript.
 
 Оригинальное видео, чтобы создать такое:
 https://www.youtube.com/watch?v=Az_TbiPAyDs&t=612s
